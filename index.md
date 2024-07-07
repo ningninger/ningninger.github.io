@@ -6,9 +6,14 @@ nav_enabled: true
 permalink: /
 ---
 
+
+
+
 ​     <img src="assets/images/nightSky.jpg" alt="night sky" style="zoom: 67%;" />
 
-# **Welcome to My Personal Website!**      
+
+
+<h1 class="purple-heading"><strong>Welcome to My Personal Website!</strong></h1>
 
 
 Hello everyone,  
