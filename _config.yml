@@ -4,10 +4,16 @@ theme: just-the-docs
 
 url: https://ningninger.github.io
 
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/ningninger/ningninger.github.io
+  "Blog":
+    - "//github.com/ningninger/ningninger.github.io"
+  "Github":
+    - "//github.com/ningninger/"
+  
 
-
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
 
 plugins:
   - jekyll-feed
@@ -55,15 +61,6 @@ mermaid:
 markdown: kramdown
 
 pygments: true
-
-
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
-
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
 
 
 # Enable or disable the side/mobile menu globally
