@@ -1,9 +1,12 @@
 ---
 title: Home
-layout: home
+layout: default
+nav_order: 1
+nav_enabled: true
+permalink: /
 ---
 
-​     <img src="assets/nightSky.jpg" alt="night sky" style="zoom: 67%;" />
+​     <img src="assets/images/nightSky.jpg" alt="night sky" style="zoom: 67%;" />
 
 # **Welcome to My Personal Website!**    
 
