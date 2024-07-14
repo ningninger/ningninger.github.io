@@ -15,7 +15,7 @@ This page is a collection of tools that I use in my daily work and study. I hope
 - [**Carbon**](https://carbon.now.sh/): Create and share beautiful images of your source code.
 
 
-<h2 class="purple-heading"><strong>Online Tools</strong></h2>
+<!-- <h2 class="purple-heading"><strong>Online Tools</strong></h2>
 
 <h3 class="purple-heading"><strong>Online Diagram Editor</strong></h3>
 
@@ -29,7 +29,7 @@ This page is a collection of tools that I use in my daily work and study. I hope
 
 <h3 class="purple-heading"><strong>Online Code Editor</strong></h3>
 
-- [**CodePen**](https://codepen.io/): Online code editor.
+- [**CodePen**](https://codepen.io/): Online code editor. -->
 
 
 <h2 class="purple-heading"><strong>CCF DDL</strong></h2>
